@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhambikashbehera" alt="subhambikashbehera" /></a> </p>
 
-- 🌱 I’m currently working on **Android Studio with JAVA and KOTLIN**
+- 🌱 I’m currently working on **Android Studio with  KOTLIN**
 
 - 👨‍💻My project showcase are available at [Linkedin](https://www.linkedin.com/in/subham-bikash-behera-3467aa1b9)
 
