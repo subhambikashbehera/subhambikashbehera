@@ -1,18 +1,67 @@
-<h1 align="center">Hi 👋, I'm Subham bikash behera</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm Subham Bikash Behera</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhambikashbehera&label=Profile%20views&color=0e75b6&style=flat" alt=subhambikashbehera" /> </p>
+<h3 align="center">Senior Software Engineer · Backend & AI Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhambikashbehera" alt="subhambikashbehera" /></a> </p>
+<br>
 
-- 🌱 I’m currently working on **Android Studio with  KOTLIN**
+<p align="center">
+  <a href="https://subhambikash.com">
+    <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-SubhamBikash.com-000000?style=for-the-badge&labelColor=000000" height="45" alt="Visit My Portfolio" />
+  </a>
+</p>
 
-- 👨‍💻My project showcase are available at [Linkedin](https://www.linkedin.com/in/subham-bikash-behera-3467aa1b9)
+<p align="center">
+  <b>AI • Backend • Systems • Innovative Projects</b>
+</p>
 
-- 💬 Ask me about **android studio,java,Kotlin**
+<br>
 
-- 📫 How to reach me **subhambikashbehera@gmail.com**
+---
 
-- ⚡ Fun fact **Want to sleep more even though i slept for 24hours.**
+### 👨‍💻 About Me
 
+* 💼 Senior Software Engineer
+* 🔄 Transitioning from **Android Development → Backend & AI Engineering**
+* 🌱 **Kotlin · Java · Python · Go**
+* 🤖 **LLMs · RAG · AI Agents · MCP**
+* ⚙️ **Spring Boot · APIs · System Design · Distributed Systems**
+* 🚀 Building practical **AI-powered applications and backend systems**
 
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,go" />
+</p>
+
+### 🛠️ Technologies
+
+`Spring Boot` `REST APIs` `SQL` `Docker` `Linux`
+
+`LLMs` `RAG` `AI Agents` `MCP` `Embeddings` `Vector Databases`
+
+---
+
+## 🚀 Innovative Projects
+
+* 🤖 **AI & LLM Applications**
+* 📄 **AI Invoice Intelligence**
+* 🧠 **RAG & Knowledge Systems**
+* 🔌 **MCP Developer Tools**
+* ⚡ **Real-Time Backend Systems**
+* 🏗️ **Distributed Systems**
+
+---
+
+<p align="center">
+  <a href="https://subhambikash.com">
+    <b>🌐 subhambikash.com</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subham-bikash-behera-3467aa1b9">LinkedIn</a>
+  ·
+  <a href="https://github.com/subhambikashbehera">GitHub</a>
+  ·
+  <a href="mailto:subhambikashbehera@gmail.com">Email</a>
+</p>
